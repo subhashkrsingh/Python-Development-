@@ -40,8 +40,8 @@
 # print("this is tab\tcharacter.")
 
 # print('Hello \'World',"Subhash",7, sep=',', end='..')
-# for i in range(1,5):
-#     print("i",sep="",end="")
+for i in range(1,5):
+    print("i",sep="",end="")
 
 # # Operators
 
