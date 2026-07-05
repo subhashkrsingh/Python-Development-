@@ -1,5 +1,0 @@
-i= 50
-
-if i== 50:
-    pass
-print("End of program")
