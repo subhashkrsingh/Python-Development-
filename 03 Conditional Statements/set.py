@@ -29,8 +29,9 @@ s2 = {0,2,4,6,8,}
 # s1.discard(4)
 # print(s1)
 
-i= s1.pop()
-print(s1)
-del i
-print(i)
+# i= s1.pop()
+# print(s1)
+# deleting a set 
+# del i
+# print(i)
 
