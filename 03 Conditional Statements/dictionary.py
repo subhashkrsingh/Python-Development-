@@ -10,6 +10,7 @@ info ={
 }
 # x = info.remove('name')
 a= info.keys()
+b = info.keys
 print(a)
 
 # for keys in info:
