@@ -1,7 +1,7 @@
 # import pandas
 # pandas.read_csv()
 
-import math
+# import math
 # result = math.sqrt(625)
 # print(result)
 
@@ -18,4 +18,9 @@ import math
 # result= m.sqrt(9)*m.pi
 # print(result)
 
-print(dir(math))
+# print(dir(math))
+
+
+from subhash import *
+welcome()
+print(subhash)
